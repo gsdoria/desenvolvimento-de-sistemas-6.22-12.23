@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "user": "admin",
+      "id": 1
+    },
+    {
+      "user": "admin1",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "user": "admin",
+      "title": "post de exemplo",
+      "content": "logue com um usuário para poder postar ou comentar em posts, caso não tenha um usuário, você pode criá-lo no cadastro",
+      "time": "2023-12-15T00:33:04.798Z",
+      "id": 1
+    }
+  ],
+  "comentarios": [
+    {
+      "user": "admin1",
+      "content": "comentário de exemplo",
+      "time": "2023-12-15T00:33:26.087Z",
+      "pid": 1,
+      "id": 1
+    }
+  ]
+}

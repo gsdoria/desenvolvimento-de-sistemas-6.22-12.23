@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "650ddaab31cf7a72ea755985"
+  },
+  "Rua": "Rua exemplo 1",
+  "Bairro": "Vila Mariana",
+  "UF": "SP",
+  "Cidade": "São Paulo",
+  "Numero": 123
+},{
+  "_id": {
+    "$oid": "650ddbd931cf7a72ea755988"
+  },
+  "Rua": "Rua exemplo 2",
+  "Bairro": "Bairro Novo",
+  "UF": "PR",
+  "Cidade": "Curitiba",
+  "Numero": 234
+},{
+  "_id": {
+    "$oid": "650ddc9631cf7a72ea75598a"
+  },
+  "Numero": 345,
+  "Rua": "Rua exemplo 3",
+  "Bairro": "Cidade Náutica",
+  "Cidade": "São Vicente",
+  "UF": "SP"
+}]

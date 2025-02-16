@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65145fbb02ba7425fb4011a7"
+  },
+  "nome": "Felipe",
+  "idade": 19,
+  "premium": false,
+  "endereço": {
+    "$oid": "650ddaab31cf7a72ea755985"
+  },
+  "cachorro": [
+    {
+      "$oid": "65145cea02ba7425fb401198"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6514615402ba7425fb4011c7"
+  },
+  "nome": "Nicolas",
+  "idade": 22,
+  "premium": true,
+  "endereço": {
+    "$oid": "650ddbd931cf7a72ea755988"
+  },
+  "cachorro": [
+    {
+      "$oid": "65145d1902ba7425fb401199"
+    },
+    {
+      "$oid": "65145d3302ba7425fb40119a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6514624f02ba7425fb4011df"
+  },
+  "nome": "Silvia",
+  "idade": 56,
+  "premium": false,
+  "endereço": {
+    "$oid": "650ddc9631cf7a72ea75598a"
+  },
+  "cachorro": [
+    {
+      "$oid": "65145dc102ba7425fb40119c"
+    },
+    {
+      "$oid": "65145dd402ba7425fb40119d"
+    },
+    {
+      "$oid": "65145ddc02ba7425fb40119e"
+    }
+  ]
+}]

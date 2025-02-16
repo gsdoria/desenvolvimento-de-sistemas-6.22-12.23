@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6514660602ba7425fb40121c"
+  },
+  "nome": "Felipe",
+  "idade": 19,
+  "premium": false,
+  "endereço": {
+    "Rua": "Rua exemplo 1",
+    "Bairro": "Vila Mariana",
+    "UF": "SP",
+    "Cidade": "São Paulo",
+    "Numero": 123
+  },
+  "cachorro": [
+    {
+      "nome": "Cookie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "65146e1a02ba7425fb401230"
+  },
+  "nome": "Nicolas",
+  "idade": 22,
+  "premium": true,
+  "endereço": {
+    "Rua": "Rua exemplo 2",
+    "Bairro": "Bairro Novo",
+    "UF": "PR",
+    "Cidade": "Curitiba",
+    "Numero": 234
+  },
+  "cachorro": [
+    {
+      "nome": "Samurai"
+    },
+    {
+      "nome": "Madruga"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6514708102ba7425fb40126c"
+  },
+  "nome": "Silvia",
+  "idade": 56,
+  "premium": true,
+  "endereço": {
+    "Numero": 345,
+    "Rua": "Rua exemplo 3",
+    "Bairro": "Cidade Náutica",
+    "Cidade": "São Vicente",
+    "UF": "SP"
+  },
+  "cachorro": [
+    {
+      "nome": "Luna"
+    },
+    {
+      "nome": "Thor"
+    },
+    {
+      "nome": "Bob"
+    },
+    {
+      "nome": "Amora"
+    }
+  ]
+}]

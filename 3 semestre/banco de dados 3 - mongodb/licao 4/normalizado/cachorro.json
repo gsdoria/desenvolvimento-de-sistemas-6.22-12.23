@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65145cea02ba7425fb401198"
+  },
+  "nome": "Cookie"
+},{
+  "_id": {
+    "$oid": "65145d1902ba7425fb401199"
+  },
+  "nome": "Samurai"
+},{
+  "_id": {
+    "$oid": "65145d3302ba7425fb40119a"
+  },
+  "nome": "Madruga"
+},{
+  "_id": {
+    "$oid": "65145d4902ba7425fb40119b"
+  },
+  "nome": "Luna"
+},{
+  "_id": {
+    "$oid": "65145dc102ba7425fb40119c"
+  },
+  "nome": "Thor"
+},{
+  "_id": {
+    "$oid": "65145dd402ba7425fb40119d"
+  },
+  "nome": "Bob"
+},{
+  "_id": {
+    "$oid": "65145ddc02ba7425fb40119e"
+  },
+  "nome": "Amora"
+}]
